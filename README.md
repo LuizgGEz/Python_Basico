@@ -1,2 +1,2 @@
 # Python_Basico
-Curso básico de Python
+Exercícios realizados de um curso de Python básico que fiz
